@@ -1,6 +1,10 @@
 <h1 align="center">
   <br>
-    💡 + 🦀 + ⚡
+    <img src="./lightbulb.png" alt="light bulb" width=100">
+    <!-- <img src="./add.png" alt="plus sign" width=20"> -->
+    <img src="./ferris.png" alt="light bulb" width=100">
+    <!-- <img src="./add.png" alt="plus sign" width=20"> -->
+    <img src="./thunderbolt.png" alt="light bulb" width=100">
   <br>
 </h1>
 
