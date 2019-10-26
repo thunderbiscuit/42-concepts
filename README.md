@@ -1,4 +1,10 @@
-# Readme
+<h1 align="center">
+  <br>
+    💡 + 🦀 + ⚡
+  <br>
+</h1>
+
+⚡ + 💡 + 🦀
 
 A list of articles and videos on individual subjects related to web development, rust, js, and bitcoin.
 
@@ -30,6 +36,8 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
 
+<br/>
+
 # Rust
 
 ## 5. Rust 2018
@@ -42,6 +50,6 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 ### Videos
 
-📼 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
-📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
+📼 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)  
+📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)  
 📼 [Bringing WebAssembly outside the web with WASI by Lin Clark](https://www.youtube.com/watch?v=fh9WXPu0hw8)
