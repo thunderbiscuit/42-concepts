@@ -4,6 +4,8 @@ A list of articles and videos on individual subjects related to web development,
 
 This is my take on the [33-js-concept project](https://github.com/leonardomso/33-js-concepts).
 
+# JS
+
 ## 1. JS Call Stack
 
 ### Videos
@@ -14,7 +16,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 ### Videos
 
-✏️ [CSS Specificity: What You Need To Know](https://www.youtube.com/watch?v=5Jpu2YrqzN0)
+📼 [CSS Specificity: What You Need To Know](https://www.youtube.com/watch?v=5Jpu2YrqzN0)
 
 ## 3. Webpack
 
@@ -27,3 +29,11 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 ### Videos
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
+
+# Rust
+
+## 5. Rust 2018
+
+### Articles
+
+📖 [Rust 2018 is here… but what is it?](https://hacks.mozilla.org/2018/12/rust-2018-is-here/)
