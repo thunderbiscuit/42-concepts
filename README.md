@@ -37,3 +37,11 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 ### Articles
 
 📖 [Rust 2018 is here… but what is it?](https://hacks.mozilla.org/2018/12/rust-2018-is-here/)
+
+## 6. WebAssembly
+
+### Videos
+
+📼 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)
+📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
+📼 [Bringing WebAssembly outside the web with WASI by Lin Clark](https://www.youtube.com/watch?v=fh9WXPu0hw8)
