@@ -15,3 +15,9 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 #### Videos
 
 [CSS Specificity: What You Need To Know](https://www.youtube.com/watch?v=5Jpu2YrqzN0)
+
+## Meta JS
+
+#### Videos
+
+[How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
