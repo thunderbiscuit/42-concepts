@@ -1,5 +1,5 @@
 <h1 align="center" >
-  <br/>
+  <br/><br/>
     <img src="./img/ferris.png" alt="Ferris, Rust's mascot" width=120">
     <span style="width: 1rem;"></span>
     <img src="./img/plus-sign.png" alt="plus sign" width=80;>
@@ -12,16 +12,26 @@
     <img src="./img/plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
     <img src="./img/thunderbolt.png" alt="Lightning bolt" width=120">
-  <br/>
+  <br/><br/>
 </h1>
 
+<br/>
+
+## Introduction
+
+A list of articles and videos on individual subjects related to web development, rust, js, bitcoin, and lightning.
+
+This format is 100 percent inspired by the fantastic [33-js-concept](https://github.com/leonardomso/33-js-concepts) project.
+
 <br/><br/>
 
-A list of articles and videos on individual subjects related to web development, rust, js, and bitcoin.
+## Table of Contents
 
-This is my take on the [33-js-concept project](https://github.com/leonardomso/33-js-concepts).
+**JS**  
+[1. JS Call Stack](#1-js-call-stack)
 
-<br/><br/>
+**Bitcoin**  
+[12. Bitcoin Core Development](#12-bitcoin-core-development)
 
 # JS
 
@@ -54,6 +64,8 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 ### Videos
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
+
+<br/>
 
 ## 5. Gatsby
 
