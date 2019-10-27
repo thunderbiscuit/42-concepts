@@ -80,3 +80,9 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 ### Videos
 
 📼 [HD Wallets (BIP32) - James Chiang](https://www.youtube.com/watch?v=OVvue2dXkJo)
+
+## 8. Shamir's Secret
+
+### Videos
+
+📼 [Shamir's Secret Sharing Explained Visually](https://www.youtube.com/watch?v=iFY5SyY3IMQ)
