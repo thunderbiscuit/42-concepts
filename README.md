@@ -15,9 +15,13 @@
   <br/>
 </h1>
 
+<br/><br/>
+
 A list of articles and videos on individual subjects related to web development, rust, js, and bitcoin.
 
 This is my take on the [33-js-concept project](https://github.com/leonardomso/33-js-concepts).
+
+<br/><br/>
 
 # JS
 
@@ -51,7 +55,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
 
-<br/>
+<br/><br/>
 
 # Rust
 
@@ -61,7 +65,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📖 [Rust 2018 is here… but what is it?](https://hacks.mozilla.org/2018/12/rust-2018-is-here/)
 
-<br/>
+<br/><br/>
 
 ## 6. WebAssembly
 
@@ -71,7 +75,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)  
 📼 [Bringing WebAssembly outside the web with WASI by Lin Clark](https://www.youtube.com/watch?v=fh9WXPu0hw8)
 
-<br/>
+<br/><br/>
 
 # Bitcoin
 
@@ -81,11 +85,15 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [HD Wallets (BIP32) - James Chiang](https://www.youtube.com/watch?v=OVvue2dXkJo)
 
+<br/>
+
 ## 8. Shamir's Secret
 
 ### Videos
 
 📼 [Shamir's Secret Sharing Explained Visually](https://www.youtube.com/watch?v=iFY5SyY3IMQ)
+
+<br/>
 
 ## 9. Payment Channels
 
@@ -93,8 +101,18 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [Bitcoin Protocol Design: Payment Channels Revisited](https://www.youtube.com/watch?v=4SdBa8ZOfqg)
 
-## 10 Segregated Witness
+<br/>
+
+## 10. Segregated Witness
 
 ### Videos
 
 📼 [Bitcoin Protocol Design: Segregated Witness Revisited](https://www.youtube.com/watch?v=AjBpIkfB-ac&list=PL_QZQgxqMztCQgHwgRh0aHE3jefM5uWE2&index=2)
+
+<br/>
+
+## 11. Bitcoin Core Development
+
+### Articles
+
+📖 [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
