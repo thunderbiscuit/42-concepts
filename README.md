@@ -1,15 +1,14 @@
 <h1 align="center" >
     <img src="./ferris.png" alt="light bulb" width=120">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
+    <img src="./plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
     <img src="./js.jpg" alt="light bulb" width=120">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
+    <img src="./plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
     <img src="./webassembly.png" alt="light bulb" width=120">
-    <!-- <span style="width: 1rem;"></span> -->
-    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
+    <img src="./plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
     <img src="./thunderbolt.png" alt="light bulb" width=120">
 </h1>
