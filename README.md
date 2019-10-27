@@ -55,6 +55,16 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
 
+## 5. Gatsby
+
+### Articles
+
+📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)
+
+### Videos
+
+📼 [Pro Gatsby Course by LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
+
 <br/><br/>
 
 # Rust
@@ -75,6 +85,8 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 📼 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)  
 📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
+
+<br/>
 
 ## 7. WASI
 
