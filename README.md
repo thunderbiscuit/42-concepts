@@ -27,7 +27,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## Table of Contents
 
-#### JS
+### JS
 
 **J1. [JS Call Stack](#1-js-call-stack)**  
 **J2. [CSS Specificity](#2-css-specificity)**  
@@ -35,21 +35,21 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J4. [Meta JS](#4-meta-js)**  
 **J5. [Gatsby](#5-gatsby)**
 
-#### Rust
+### Rust
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
-#### WebAssembly
+### WebAssembly
 
 **W1. [WebAssembly Basics](#w1-webassembly-basics)**  
 **W2. [WASI](#w2-wasi)**
 
-#### Bitcoin
+### Bitcoin
 
-**B1. [HD Wallets](#b1-hd-wallets)**
-**B2. [Shamir's Secret](#b2-shamirs-secret)**
-**B3. [Payment Channels](#b3-payment-channels)**
-**B4. [Segregated Witness](#b4-segregated-witness)**
+**B1. [HD Wallets](#b1-hd-wallets)**  
+**B2. [Shamir's Secret](#b2-shamirs-secret)**  
+**B3. [Payment Channels](#b3-payment-channels)**  
+**B4. [Segregated Witness](#b4-segregated-witness)**  
 **B5. [Bitcoin Core Development](#12-bitcoin-core-development)**
 
 <br/><br/>
