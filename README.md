@@ -67,19 +67,26 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 <br/><br/>
 
-## 6. WebAssembly
+# WebAssembly
+
+## 6. WebAssembly Basics
 
 ### Videos
 
 📼 [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](https://www.youtube.com/watch?v=HktWin_LPf4)  
-📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)  
+📼 [RustConf 2019 - From Electron, to Wasm, to Rust (Aaand Back to Electron) by Irina Shestak](https://www.youtube.com/watch?v=lLzFJenzBng)
+
+## 7. WASI
+
+### Videos
+
 📼 [Bringing WebAssembly outside the web with WASI by Lin Clark](https://www.youtube.com/watch?v=fh9WXPu0hw8)
 
 <br/><br/>
 
 # Bitcoin
 
-## 7. HD Wallets
+## 8. HD Wallets
 
 ### Videos
 
@@ -87,7 +94,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 <br/>
 
-## 8. Shamir's Secret
+## 9. Shamir's Secret
 
 ### Videos
 
@@ -95,7 +102,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 <br/>
 
-## 9. Payment Channels
+## 10. Payment Channels
 
 ### Videos
 
@@ -103,7 +110,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 <br/>
 
-## 10. Segregated Witness
+## 11. Segregated Witness
 
 ### Videos
 
@@ -111,7 +118,7 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 
 <br/>
 
-## 11. Bitcoin Core Development
+## 12. Bitcoin Core Development
 
 ### Articles
 
