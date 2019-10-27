@@ -92,3 +92,9 @@ This is my take on the [33-js-concept project](https://github.com/leonardomso/33
 ### Videos
 
 📼 [Bitcoin Protocol Design: Payment Channels Revisited](https://www.youtube.com/watch?v=4SdBa8ZOfqg)
+
+## 10 Segregated Witness
+
+### Videos
+
+📼 [Bitcoin Protocol Design: Segregated Witness Revisited](https://www.youtube.com/watch?v=AjBpIkfB-ac&list=PL_QZQgxqMztCQgHwgRh0aHE3jefM5uWE2&index=2)
