@@ -29,24 +29,28 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 #### JS
 
-**1. [JS Call Stack](#1-js-call-stack)**
-**2. [CSS Specificity](#2-css-specificity)**
-**3. [Webpack](#3-webpack)**
-**4. [Meta JS](#4-meta-js)**
-**5. [Gatsby](#5-gatsby)**
+**J1. [JS Call Stack](#1-js-call-stack)**  
+**J2. [CSS Specificity](#2-css-specificity)**  
+**J3. [Webpack](#3-webpack)**  
+**J4. [Meta JS](#4-meta-js)**  
+**J5. [Gatsby](#5-gatsby)**
 
 #### Rust
 
-**1. [Rust 2018](#r1-rust-2018)**
+**R1. [Rust 2018](#r1-rust-2018)**
 
 #### WebAssembly
 
-**W1. [WebAssembly Basics](#w1-webassembly-basics)**
+**W1. [WebAssembly Basics](#w1-webassembly-basics)**  
 **W2. [WASI](#w2-wasi)**
 
 #### Bitcoin
 
-**[12. Bitcoin Core Development](#12-bitcoin-core-development)**
+**B1. [HD Wallets](#b1-hd-wallets)**
+**B2. [Shamir's Secret](#b2-shamirs-secret)**
+**B3. [Payment Channels](#b3-payment-channels)**
+**B4. [Segregated Witness](#b4-segregated-witness)**
+**B5. [Bitcoin Core Development](#12-bitcoin-core-development)**
 
 <br/><br/>
 
