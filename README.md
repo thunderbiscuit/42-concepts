@@ -27,24 +27,16 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## Table of Contents
 
-### JS
-
 **J1. [JS Call Stack](#1-js-call-stack)**  
 **J2. [CSS Specificity](#2-css-specificity)**  
 **J3. [Webpack](#3-webpack)**  
 **J4. [Meta JS](#4-meta-js)**  
 **J5. [Gatsby](#5-gatsby)**
 
-### Rust
-
 **R1. [Rust 2018](#r1-rust-2018)**
-
-### WebAssembly
 
 **W1. [WebAssembly Basics](#w1-webassembly-basics)**  
 **W2. [WASI](#w2-wasi)**
-
-### Bitcoin
 
 **B1. [HD Wallets](#b1-hd-wallets)**  
 **B2. [Shamir's Secret](#b2-shamirs-secret)**  
