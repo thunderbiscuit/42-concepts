@@ -1,12 +1,24 @@
-<h1 align="center">
-  <br>
-    <img src="./lightbulb.png" alt="light bulb" width=100">
+<!-- <h1 align="center" > -->
+<div class="container" style="display: flex; justify-content: center; flex-direction: row; align-items: center;">
+    <!-- <img src="./lightbulb.png" alt="light bulb" width=100"> -->
+    <!-- <span style="width: 1rem;"></span> -->
     <!-- <img src="./add.png" alt="plus sign" width=20"> -->
+    <!-- <span style="width: 1rem;"></span> -->
     <img src="./ferris.png" alt="light bulb" width=100">
-    <!-- <img src="./add.png" alt="plus sign" width=20"> -->
+    <span style="width: 1rem;"></span>
+    <img src="./add.png" alt="plus sign" width=20">
+    <span style="width: 1rem;"></span>
+    <img src="./js.jpg" alt="light bulb" width=100">
+    <span style="width: 1rem;"></span>
+    <img src="./add.png" alt="plus sign" width=20">
+    <span style="width: 1rem;"></span>
+    <img src="./webassembly.png" alt="light bulb" width=100">
+    <span style="width: 1rem;"></span>
+    <img src="./add.png" alt="plus sign" width=20">
+    <span style="width: 1rem;"></span>
     <img src="./thunderbolt.png" alt="light bulb" width=100">
-  <br>
-</h1>
+</div>
+<!-- </h1> -->
 
 ⚡ + 💡 + 🦀
 
