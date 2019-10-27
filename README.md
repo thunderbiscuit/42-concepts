@@ -27,11 +27,12 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## Table of Contents
 
-**J1. [JS Call Stack](#1-js-call-stack)**  
-**J2. [CSS Specificity](#2-css-specificity)**  
-**J3. [Webpack](#3-webpack)**  
-**J4. [Meta JS](#4-meta-js)**  
-**J5. [Gatsby](#5-gatsby)**
+**J1. [JS Call Stack](#j1-js-call-stack)**  
+**J2. [CSS Specificity](#j2-css-specificity)**  
+**J3. [Webpack](#j3-webpack)**  
+**J4. [React](#j4-react)**
+**J5. [Gatsby](#j5-gatsby)**
+**J6. [Meta JS](#j6-meta-js)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
@@ -72,11 +73,15 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## J4. Meta JS
+## J4. React
+
+### Articles
+
+📖 [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 ### Videos
 
-📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
+📼 [React 16 for Everyone—LevelUpTutorials](https://www.leveluptutorials.com/tutorials/react-16-for-everyone)
 
 <br/>
 
@@ -88,8 +93,15 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ### Videos
 
-📼 [Pro Gatsby Course by LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
+📼 [Pro Gatsby Course—LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
 
+## J6. Meta JS
+
+### Videos
+
+📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
+
+<br/>
 <br/><br/>
 
 # Rust
