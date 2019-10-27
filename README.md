@@ -6,15 +6,15 @@
     <!-- <span style="width: 1rem;"></span> -->
     <img src="./ferris.png" alt="light bulb" width=100">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign-background.png" alt="plus sign" width=20; style="margin: 40px 20px;">
+    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
     <img src="./js.jpg" alt="light bulb" width=100">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign-background.png" alt="plus sign" width=20; style="margin: 40px 20px;">
+    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
     <img src="./webassembly.png" alt="light bulb" width=100">
     <!-- <span style="width: 1rem;"></span> -->
-    <img src="./plus-sign-background.png" alt="plus sign" width=20; style="margin: 40px 20px;">
+    <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
     <img src="./thunderbolt.png" alt="light bulb" width=100">
 <!-- </div> -->
