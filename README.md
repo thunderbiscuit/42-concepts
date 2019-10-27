@@ -1,23 +1,17 @@
 <h1 align="center" >
-<!-- <div class="container" style="display: flex; justify-content: center; flex-direction: row; align-items: center;"> -->
-    <!-- <img src="./lightbulb.png" alt="light bulb" width=100"> -->
-    <!-- <span style="width: 1rem;"></span> -->
-    <!-- <img src="./add.png" alt="plus sign" width=20"> -->
-    <!-- <span style="width: 1rem;"></span> -->
-    <img src="./ferris.png" alt="light bulb" width=100">
+    <img src="./ferris.png" alt="light bulb" width=200">
     <span style="width: 1rem;"></span>
     <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
-    <img src="./js.jpg" alt="light bulb" width=100">
+    <img src="./js.jpg" alt="light bulb" width=200">
     <span style="width: 1rem;"></span>
     <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
-    <img src="./webassembly.png" alt="light bulb" width=100">
+    <img src="./webassembly.png" alt="light bulb" width=200">
     <!-- <span style="width: 1rem;"></span> -->
     <img src="./plus-sign-background-high.png" alt="plus sign" width=50;>
     <span style="width: 1rem;"></span>
-    <img src="./thunderbolt.png" alt="light bulb" width=100">
-<!-- </div> -->
+    <img src="./thunderbolt.png" alt="light bulb" width=200">
 </h1>
 
 A list of articles and videos on individual subjects related to web development, rust, js, and bitcoin.
