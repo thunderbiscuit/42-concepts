@@ -30,9 +30,10 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J1. [JS Call Stack](#j1-js-call-stack)**  
 **J2. [CSS Specificity](#j2-css-specificity)**  
 **J3. [Webpack](#j3-webpack)**  
-**J4. [React](#j4-react)**
-**J5. [Gatsby](#j5-gatsby)**
-**J6. [Meta JS](#j6-meta-js)**
+**J4. [React](#j4-react)**  
+**J5. [Gatsby](#j5-gatsby)**  
+**J6. [Redux](#j6-redux)**  
+**J7. [Meta JS](#j7-meta-js)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
@@ -81,7 +82,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ### Videos
 
-📼 [React 16 for Everyone—LevelUpTutorials](https://www.leveluptutorials.com/tutorials/react-16-for-everyone)
+📼 [React 16 for Everyone - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/react-16-for-everyone)
 
 <br/>
 
@@ -93,15 +94,25 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ### Videos
 
-📼 [Pro Gatsby Course—LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
+📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
 
-## J6. Meta JS
+<br/>
+
+## J6. Redux
+
+### Articles
+
+📖 [Official Docs Redux Introduction](https://redux.js.org/introduction/getting-started)  
+📖 [Official Docs Basic Tutorial](https://redux.js.org/basics/basic-tutorial)
+
+<br/>
+
+## J7. Meta JS
 
 ### Videos
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
 
-<br/>
 <br/><br/>
 
 # Rust
