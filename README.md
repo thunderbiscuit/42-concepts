@@ -1,17 +1,17 @@
 <h1 align="center" >
   <br/>
-    <img src="./ferris.png" alt="light bulb" width=120">
+    <img src="./img/ferris.png" alt="Ferris, Rust's mascot" width=120">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign.png" alt="plus sign" width=80;>
+    <img src="./img/plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
-    <img src="./js.jpg" alt="light bulb" width=120">
+    <img src="./img/js.jpg" alt="JS logo" width=120">
     <span style="width: 1rem;"></span>
-    <img src="./plus-sign.png" alt="plus sign" width=80;>
+    <img src="./img/plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
-    <img src="./webassembly.png" alt="light bulb" width=120">
-    <img src="./plus-sign.png" alt="plus sign" width=80;>
+    <img src="./img/webassembly.png" alt="WebAssembly logo" width=120">
+    <img src="./img/plus-sign.png" alt="plus sign" width=80;>
     <span style="width: 1rem;"></span>
-    <img src="./thunderbolt.png" alt="light bulb" width=120">
+    <img src="./img/thunderbolt.png" alt="Lightning bolt" width=120">
   <br/>
 </h1>
 
