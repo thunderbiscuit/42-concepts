@@ -27,15 +27,32 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## Table of Contents
 
-**JS**  
-[1. JS Call Stack](#1-js-call-stack)
+#### JS
 
-**Bitcoin**  
-[12. Bitcoin Core Development](#12-bitcoin-core-development)
+**1. [JS Call Stack](#1-js-call-stack)**
+**2. [CSS Specificity](#2-css-specificity)**
+**3. [Webpack](#3-webpack)**
+**4. [Meta JS](#4-meta-js)**
+**5. [Gatsby](#5-gatsby)**
+
+#### Rust
+
+**1. [Rust 2018](#r1-rust-2018)**
+
+#### WebAssembly
+
+**W1. [WebAssembly Basics](#w1-webassembly-basics)**
+**W2. [WASI](#w2-wasi)**
+
+#### Bitcoin
+
+**[12. Bitcoin Core Development](#12-bitcoin-core-development)**
+
+<br/><br/>
 
 # JS
 
-## 1. JS Call Stack
+## J1. JS Call Stack
 
 ### Videos
 
@@ -43,7 +60,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 2. CSS Specificity
+## J2. CSS Specificity
 
 ### Videos
 
@@ -51,7 +68,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 3. Webpack
+## J3. Webpack
 
 ### Videos
 
@@ -59,7 +76,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 4. Meta JS
+## J4. Meta JS
 
 ### Videos
 
@@ -67,7 +84,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 5. Gatsby
+## J5. Gatsby
 
 ### Articles
 
@@ -81,7 +98,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 # Rust
 
-## 5. Rust 2018
+## R1. Rust 2018
 
 ### Articles
 
@@ -91,7 +108,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 # WebAssembly
 
-## 6. WebAssembly Basics
+## W1. WebAssembly Basics
 
 ### Videos
 
@@ -100,7 +117,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 7. WASI
+## W2. WASI
 
 ### Videos
 
@@ -110,7 +127,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 # Bitcoin
 
-## 8. HD Wallets
+## B1. HD Wallets
 
 ### Videos
 
@@ -118,7 +135,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 9. Shamir's Secret
+## B2. Shamir's Secret
 
 ### Videos
 
@@ -126,7 +143,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 10. Payment Channels
+## B3. Payment Channels
 
 ### Videos
 
@@ -134,7 +151,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 11. Segregated Witness
+## B4. Segregated Witness
 
 ### Videos
 
@@ -142,7 +159,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 <br/>
 
-## 12. Bitcoin Core Development
+## B5. Bitcoin Core Development
 
 ### Articles
 
