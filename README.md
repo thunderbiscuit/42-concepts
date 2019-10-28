@@ -34,6 +34,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J5. [Gatsby](#j5-gatsby)**  
 **J6. [Redux](#j6-redux)**  
 **J7. [Meta JS](#j7-meta-js)**
+**J8. [Higher Order Functions](#j8-higher-order-functions)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
@@ -94,6 +95,12 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 ## J7. Meta JS
 
 📼 [How Features are Added to JavaScript](https://www.youtube.com/watch?v=uBzjdTiCSNk)
+
+<br/>
+
+## J8. Higher Order Functions
+
+📼 [Understanding JavaScript Callbacks and Higher Order Functions](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5xUUZQ6d6fWQ0hRECcsy-H)
 
 <br/><br/>
 
