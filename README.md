@@ -53,6 +53,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## J1. JS Call Stack
 
+📼 [Understanding JavaScript Functions, Execution Context, and the Call Stack](https://www.youtube.com/playlist?list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
 📼 [The JS Call Stack Explained In 9 Minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
 <br/>
