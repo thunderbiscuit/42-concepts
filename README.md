@@ -88,13 +88,13 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## J5. Gatsby
 
-📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)
-📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)
+📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)  
+📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)  
 📖 [Official Gatsby Docs Tutorials](https://www.gatsbyjs.org/tutorial/)
 
-📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
-📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
-📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
+📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)  
+📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)  
+📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)  
 📼 [Pro Gatsby Course - LevelUpTutorials](https://www.leveluptutorials.com/tutorials/pro-gatsby-2)
 
 <br/>
