@@ -46,7 +46,8 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **B2. [Shamir's Secret](#b2-shamirs-secret)**  
 **B3. [Payment Channels](#b3-payment-channels)**  
 **B4. [Segregated Witness](#b4-segregated-witness)**  
-**B5. [Bitcoin Core Development](#12-bitcoin-core-development)**
+**B5. [Bitcoin Core Development](#b5-bitcoin-core-development)**  
+**B6. [Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
 
 <br/><br/>
 
@@ -180,3 +181,9 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 ## B5. Bitcoin Core Development
 
 📖 [A Gentle Introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
+
+<br/>
+
+## B6. Installing a Node in the Cloud
+
+📖 [Setting Up a Bitcoin-Core VPS by Hand](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line/blob/master/02_1_Setting_Up_a_Bitcoin-Core_VPS_by_Hand.md)
