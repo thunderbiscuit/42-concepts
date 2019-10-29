@@ -34,7 +34,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J5. [Gatsby](#j5-gatsby)**  
 **J6. [Redux](#j6-redux)**  
 **J7. [Meta JS](#j7-meta-js)**  
-**J8. [Higher Order Functions](#j8-higher-order-functions)**
+**J8. [Higher Order Functions](#j8-higher-order-functions)**  
 **J9. [JS Engines](#j9-js-engines)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
@@ -108,9 +108,11 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## J9. JS Engines
 
+📼 [JavaScript engines - how do they even?](https://www.youtube.com/watch?v=p-iiEDtpy6I)
 📼 [JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
-📖 [JavaScript essentials: why you should know how the engine works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)
+📖 [JavaScript Essentials: Why you Should Know How the Engine Works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)  
+📖 [Understanding V8's Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
 
 <br/><br/>
 
