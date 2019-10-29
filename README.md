@@ -19,7 +19,7 @@
 
 ## Introduction
 
-A list of articles and videos on individual subjects related to web development, rust, js, bitcoin, and lightning.
+A list of articles and videos on individual subjects related to web development, rust, js, bitcoin, and lightning. If you have recommendations for items to add to the list, I invite you to make a PR and I'll be sure to read/watch the proposed article/video and add it if it fits my criteria!
 
 This format is 100 percent inspired by the fantastic [33-js-concept](https://github.com/leonardomso/33-js-concepts) project.
 
@@ -33,8 +33,9 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J4. [React](#j4-react)**  
 **J5. [Gatsby](#j5-gatsby)**  
 **J6. [Redux](#j6-redux)**  
-**J7. [Meta JS](#j7-meta-js)**
+**J7. [Meta JS](#j7-meta-js)**  
 **J8. [Higher Order Functions](#j8-higher-order-functions)**
+**J9. [JS Engines](#j9-js-engines)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
@@ -53,7 +54,7 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## J1. JS Call Stack
 
-📼 [Understanding JavaScript Functions, Execution Context, and the Call Stack](https://www.youtube.com/playlist?list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)
+📼 [Understanding JavaScript Functions, Execution Context, and the Call Stack](https://www.youtube.com/playlist?list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)  
 📼 [The JS Call Stack Explained In 9 Minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
 <br/>
@@ -102,6 +103,14 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 ## J8. Higher Order Functions
 
 📼 [Understanding JavaScript Callbacks and Higher Order Functions](https://www.youtube.com/playlist?list=PLWrQZnG8l0E5xUUZQ6d6fWQ0hRECcsy-H)
+
+<br/>
+
+## J9. JS Engines
+
+📼 [JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI)
+
+📖 [JavaScript essentials: why you should know how the engine works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)
 
 <br/><br/>
 
