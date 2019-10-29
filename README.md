@@ -35,7 +35,8 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 **J6. [Redux](#j6-redux)**  
 **J7. [Meta JS](#j7-meta-js)**  
 **J8. [Higher Order Functions](#j8-higher-order-functions)**  
-**J9. [JS Engines](#j9-js-engines)**
+**J9. [JS Engines](#j9-js-engines)**  
+**J10. [Browser Extensions](#j10-browser-extensions)**
 
 **R1. [Rust 2018](#r1-rust-2018)**
 
@@ -108,11 +109,17 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## J9. JS Engines
 
-📼 [JavaScript engines - how do they even?](https://www.youtube.com/watch?v=p-iiEDtpy6I)
+📼 [JavaScript engines - how do they even?](https://www.youtube.com/watch?v=p-iiEDtpy6I)  
 📼 [JavaScript Engines: The Good Parts](https://www.youtube.com/watch?v=5nmpokoRaZI)
 
 📖 [JavaScript Essentials: Why you Should Know How the Engine Works](https://www.freecodecamp.org/news/javascript-essentials-why-you-should-know-how-the-engine-works-c2cc0d321553/)  
 📖 [Understanding V8's Bytecode](https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775)
+
+<br/>
+
+## J10. Browser Extensions
+
+📼 [Browser Extensions - Matt Claypotch - JSConf US 2018](https://www.youtube.com/watch?v=Jxe7AXgbYqY&list=PL37ZVnwpeshGGVeMxXxCxjQZBJq5bqM7b&index=4)
 
 <br/><br/>
 
