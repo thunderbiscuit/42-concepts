@@ -25,29 +25,30 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 
 ## Table of Contents
 
-**J1. [JS Call Stack](#j1-js-call-stack)**  
-**J2. [CSS Specificity](#j2-css-specificity)**  
-**J3. [Webpack](#j3-webpack)**  
-**J4. [React](#j4-react)**  
-**J5. [Gatsby](#j5-gatsby)**  
-**J6. [Redux](#j6-redux)**  
-**J7. [Meta JS](#j7-meta-js)**  
-**J8. [Higher Order Functions](#j8-higher-order-functions)**  
-**J9. [JS Engines](#j9-js-engines)**  
-**J10. [Browser Extensions](#j10-browser-extensions)**  
-**J11. [Promises](#j11-promises)**
+J1. **[JS Call Stack](#j1-js-call-stack)**  
+J2. **[CSS Specificity](#j2-css-specificity)**  
+J3. **[Webpack](#j3-webpack)**  
+J4. **[React](#j4-react)**  
+J5. **[Gatsby](#j5-gatsby)**  
+J6. **[Redux](#j6-redux)**  
+J7. **[Meta JS](#j7-meta-js)**  
+J8. **[Higher Order Functions](#j8-higher-order-functions)**  
+J9. **[JS Engines](#j9-js-engines)**  
+J10. **[Browser Extensions](#j10-browser-extensions)**  
+J11. **[Promises](#j11-promises)**
 
-**R1. [Rust 2018](#r1-rust-2018)**
+R1. **[Rust 2018](#r1-rust-2018)**  
+R2. **[Macros](#r2-macros)**
 
-**W1. [WebAssembly Basics](#w1-webassembly-basics)**  
-**W2. [WASI](#w2-wasi)**
+W1. **[WebAssembly Basics](#w1-webassembly-basics)**  
+W2. **[WASI](#w2-wasi)**
 
-**B1. [HD Wallets](#b1-hd-wallets)**  
-**B2. [Shamir's Secret](#b2-shamirs-secret)**  
-**B3. [Payment Channels](#b3-payment-channels)**  
-**B4. [Segregated Witness](#b4-segregated-witness)**  
-**B5. [Bitcoin Core Development](#b5-bitcoin-core-development)**  
-**B6. [Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
+B1. **[HD Wallets](#b1-hd-wallets)**  
+B2. **[Shamir's Secret](#b2-shamirs-secret)**  
+B3. **[Payment Channels](#b3-payment-channels)**  
+B4. **[Segregated Witness](#b4-segregated-witness)**  
+B5. **[Bitcoin Core Development](#b5-bitcoin-core-development)**  
+B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
 
 <br/><br/>
 
@@ -134,6 +135,12 @@ This format is 100 percent inspired by the fantastic [33-js-concept](https://git
 ## R1. Rust 2018
 
 📖 [Rust 2018 is here… but what is it?](https://hacks.mozilla.org/2018/12/rust-2018-is-here/)
+
+<br/>
+
+## R2. Macros
+
+📖 [A Beginner’s Guide to Rust Macros](https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1)
 
 <br/><br/>
 
