@@ -37,11 +37,18 @@ J9. **[JS Engines](#j9-js-engines)**
 J10. **[Browser Extensions](#j10-browser-extensions)**  
 J11. **[Promises](#j11-promises)**
 
+<br/>
+
 R1. **[Rust 2018](#r1-rust-2018)**  
-R2. **[Macros](#r2-macros)**
+R2. **[Macros](#r2-macros)**  
+R3. **[Ownership](#r3-ownership)**
+
+<br/>
 
 W1. **[WebAssembly Basics](#w1-webassembly-basics)**  
 W2. **[WASI](#w2-wasi)**
+
+<br/>
 
 B1. **[HD Wallets](#b1-hd-wallets)**  
 B2. **[Shamir's Secret](#b2-shamirs-secret)**  
@@ -141,6 +148,12 @@ B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
 ## R2. Macros
 
 📖 [A Beginner’s Guide to Rust Macros](https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1)
+
+<br/>
+
+## R3. Ownership
+
+📖 [Ownership in Rust](https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b)
 
 <br/><br/>
 
