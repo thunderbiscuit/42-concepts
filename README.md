@@ -64,6 +64,7 @@ B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
 ## J1. JS Call Stack
 
 📼 [Understanding JavaScript Functions, Execution Context, and the Call Stack](https://www.youtube.com/playlist?list=PLWrQZnG8l0E4kd1T_nyuVoxQUaYEWFgcD)  
+📼 [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 📼 [The JS Call Stack Explained In 9 Minutes](https://www.youtube.com/watch?v=W8AeMrVtFLY)
 
 <br/>
