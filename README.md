@@ -55,7 +55,8 @@ B2. **[Shamir's Secret](#b2-shamirs-secret)**
 B3. **[Payment Channels](#b3-payment-channels)**  
 B4. **[Segregated Witness](#b4-segregated-witness)**  
 B5. **[Bitcoin Core Development](#b5-bitcoin-core-development)**  
-B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
+B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**  
+B7. **[RaspiBlitz](#b7-raspiblitz)**
 
 <br/><br/>
 
@@ -208,3 +209,9 @@ B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**
 ## B6. Installing a Node in the Cloud
 
 📖 [Setting Up a Bitcoin-Core VPS by Hand](https://github.com/ChristopherA/Learning-Bitcoin-from-the-Command-Line/blob/master/02_1_Setting_Up_a_Bitcoin-Core_VPS_by_Hand.md)
+
+<br/>
+
+## B7. RaspiBlitz
+
+📖 [Official Readme](https://github.com/rootzoll/raspiblitz/blob/master/README.md)
