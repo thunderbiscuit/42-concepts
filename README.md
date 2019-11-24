@@ -56,7 +56,8 @@ B3. **[Payment Channels](#b3-payment-channels)**
 B4. **[Segregated Witness](#b4-segregated-witness)**  
 B5. **[Bitcoin Core Development](#b5-bitcoin-core-development)**  
 B6. **[Installing a Node in the Cloud](#b6-installing-a-node-in-the-cloud)**  
-B7. **[RaspiBlitz](#b7-raspiblitz)**
+B7. **[RaspiBlitz](#b7-raspiblitz)**  
+B8. **[ZeroMQ](#b8-zeromq)**
 
 <br/><br/>
 
@@ -215,3 +216,9 @@ B7. **[RaspiBlitz](#b7-raspiblitz)**
 ## B7. RaspiBlitz
 
 📖 [Official Readme](https://github.com/rootzoll/raspiblitz/blob/master/README.md)
+
+<br/>
+
+## B8. ZeroMQ
+
+📖 [Accessing Bitcoin's ZeroMQ Interface](https://bitcoindev.network/accessing-bitcoins-zeromq-interface/)
